@@ -1,1 +1,24 @@
 /*  your css code here. If applicable */
+nav{
+   background-color:#D3D3D3;
+		display:inline;
+	padding:10px;
+	display:flex;
+	flex-direction:column;
+	margin-right:1rem;
+
+	
+}
+.nav-container{
+	display:flex;
+	flex-direction:column;
+	
+	gap:10px;
+	
+}
+ul {
+  list-style: none;
+	display:flex;
+	gap:10px;
+	justify-content:space-between;
+}
